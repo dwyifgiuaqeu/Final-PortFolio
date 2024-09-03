@@ -9,7 +9,7 @@ body {
 background: linear-gradient(135deg, black, rgb(37, 71, 120), rgba(32, 90, 109, 0.323));
 
 /* Optional: setting background size and repeat for more patterns */
-background-size: 100% ;
+background-size: 200% 200% ;
 height: max-content;
 background-blend-mode: multiply;
 
